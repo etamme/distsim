@@ -15,7 +15,7 @@ total_call_attempts=100000
 
 # crash percent is defined as 1 out of X, so if you set it as 10 it will be 1 out of 10 times
 # 1 out of 100 would be 1%
-crash_chance=100000
+crash_chance=100
 crashes=0
 
 # loop through total call attempts
